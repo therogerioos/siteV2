@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Routes, HashRouter } from 'react-router-dom';
 import './css/styles.css';
 import PageHome from './components/PageHome';
 import PageCurriculo from './components/PageCurriculo';
@@ -16,7 +16,7 @@ function App() {
 
   return (
     <div>
-      <Router>
+      <HashRouter>
         <div>
           <Routes>
             <Route path="/" element={<PageHome />} />
@@ -28,7 +28,7 @@ function App() {
             <Route path="/tutoriais/:link" exact element={<PagePostTutoriais/>} />
           </Routes>
         </div>
-      </Router>
+      </HashRouter>
     </div>
 
   )
