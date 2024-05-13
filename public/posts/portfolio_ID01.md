@@ -1,4 +1,4 @@
-![imagem-title](/public/images/capa_post1.png)
+![imagem-title](/images/capa_post1.png)
 
 
 # Título do Post - Portfolio ID 01
@@ -19,7 +19,7 @@ Também é possível criar listas numeradas:
 
 Pode ter várias linhas.
 
-![imagem-direita](/public/images/log-css.png)
+![imagem-direita](/images/log-css.png)
 
 ## Como escrever em Markdown
 Esta página descreve como usamos Markdown para escrever documentação sobre MDN Web Docs. Escolhemos o GitHub-Flavored Markdown (GFM) como linha de base e adicionamos algumas extensões para oferecer suporte a algumas das coisas que precisamos fazer no MDN que não são prontamente suportadas no GFM.

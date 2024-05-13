@@ -1,4 +1,4 @@
-![imagem-title](/public/images/capa_post1.png)
+![imagem-title](/images/capa_post1.png)
 # Título do Post - Portfolio ID 02
 
 Este é um parágrafo de texto simples. Você pode adicionar formatação *itálico* ou **negrito** conforme necessário. Além disso, você pode criar listas:
@@ -15,7 +15,7 @@ Também é possível criar listas numeradas:
 
 Você pode adicionar links [como este](https://exemplo.com) ou até mesmo imagens:
 
-![Texto alternativo](/public/images/log-html.png)
+![Texto alternativo](/images/log-html.png)
 
 Além disso, é possível adicionar blocos de código:
 

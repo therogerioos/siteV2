@@ -1,5 +1,5 @@
 {
-  "homepage": "https://therogerioos.com.br",
+  "homepage": "https://github.com/therogerioos/siteV2.git",
   "name": "site-therogerioos-v2",
   "private": true,
   "version": "0.0.0",
@@ -10,7 +10,7 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist -m 'Deploying to GitHub Pages' && copy CNAME dist/CNAME"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@emotion/react": "^11.11.4",
