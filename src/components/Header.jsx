@@ -24,11 +24,11 @@ function Header() {
             </div>
             <nav className="nav">
                 <ol className="nav-menu">
-                    <a className="item" href="/">Página Inicial</a>
-                    <a className="item" href="/portfolio">Portfólio</a>
-                    <a className="item" href="/tutoriais">Tutoriais</a>
-                    <a className="item" href="/curriculo">Currículo</a>
-                    <a className="item" href="/about">Sobre mim</a>
+                    <a className="item" href="#/">Página Inicial</a>
+                    <a className="item" href="#/portfolio">Portfólio</a>
+                    <a className="item" href="#/tutoriais">Tutoriais</a>
+                    <a className="item" href="#/curriculo">Currículo</a>
+                    <a className="item" href="#/about">Sobre mim</a>
                 </ol>
             </nav>
             <div className="social-icons-header">
@@ -41,11 +41,11 @@ function Header() {
                 <a href="mailto:therogerioos@gmail.com?subject=Fale Conosco&body=Olá, THEROGERIOOS Team" rel="noopener noreferrer"><FontAwesomeIcon icon={faEnvelope} /></a>
             </div>
             <ul className={isOpen ? 'option-menu-low show' : 'option-menu-low'} id="nav-links">
-                <li><a className="item" href="/">Página Inicial</a></li>
-                <li><a className="item" href="/portfolio">Portfólio</a></li>
-                <li><a className="item" href="/tutoriais">Tutoriais</a></li>
-                <li><a className="item" href="/curriculo">Currículo</a></li>
-                <li><a className="item" href="/about">Sobre mim</a></li>
+                <li><a className="item" href="#/">Página Inicial</a></li>
+                <li><a className="item" href="#/portfolio">Portfólio</a></li>
+                <li><a className="item" href="#/tutoriais">Tutoriais</a></li>
+                <li><a className="item" href="#/curriculo">Currículo</a></li>
+                <li><a className="item" href="#/about">Sobre mim</a></li>
             </ul>
         </header>
     );

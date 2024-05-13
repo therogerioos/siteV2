@@ -54,7 +54,7 @@ function Portfolio() {
                 {itemsForPage.map((item, index) => (
                     <div className="card-post-text-portfolio" key={index}>
                         <Link to={`/portfolio/${item.link}`} style={{ textDecoration: 'none' }}>
-                            <Card sx={{ maxWidth: 350, backgroundColor: '#181c23', color: '#ffff', fontFamily: 'League Spartan' }}>
+                            <Card sx={{ minWidth: 350, maxWidth: 350, backgroundColor: '#181c23', color: '#ffff', fontFamily: 'League Spartan' }}>
                                 <CardActionArea>
                                     <CardMedia
                                         component="img"

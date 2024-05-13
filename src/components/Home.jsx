@@ -64,15 +64,15 @@ function Home() {
                     </div>
                     <div className="card-group-card">
                         <div className="card portfolio">
-                            <h2><a className="h2-portfolio" href="/portfolio/page1">Portfólio</a></h2>
+                            <h2><a className="h2-portfolio" href="#/portfolio">Portfólio</a></h2>
                             <p>Esse é o espaço onde ficará todo o meu talento, habilidades e desenvolvimento profissional. Não pense que estou parado no meio do Rogerioverso, pois, estou vivendo em expansão para o infinito e além!!!</p>
                         </div>
                         <div className="card tutoriais">
-                            <h2><a className="h2-tutoriais" href="/tutoriais/page1">Tutoriais</a></h2>
+                            <h2><a className="h2-tutoriais" href="#/tutoriais">Tutoriais</a></h2>
                             <p>Conhecimento nunca deverá ficar privado, seria muito egoísmo. Por isso, criei essa seção para demonstrar de forma minuciosa diversos tutoriais que ajudarão aos pequenos gafanhotos que estão viajando pela Rogerioverso.</p>
                         </div>
                         <div className="card curriculo">
-                            <h2><a className="h2-curriculo" href="/curriculo">Currículo</a></h2>
+                            <h2><a className="h2-curriculo" href="#/curriculo">Currículo</a></h2>
                             <p>Nunca deveremos abandonar o tradicional, mas evolução é necessária. Por isso, coloquei o meu currículo em versão web, para que algum mestre Jedi possa me recrutar para seu time.</p>
                         </div>
                         <div className="card redes">
@@ -93,7 +93,7 @@ function Home() {
             <section className="section-pages-4" id='section-pages-4'>
                 <div className="about-resume">
                     <div className="card-about sobre">
-                        <h2><a className="h2-sobre" href="/about">Sobre mim</a></h2>
+                        <h2><a className="h2-sobre" href="#/about">Sobre mim</a></h2>
                         <p>Primeiramente, agradeço pela visita ao Rogerioverso. Eu criei uma aba com detalhamentos sobre quem sou, o que faço, meus planos e minhas áreas de estudo, apresentando um pouco da minha carreira profissional.
                             <br />Portanto, caso não tenha muito tempo para verificar mais detalhes, vou fazer um resumo bem simples.
                             <br />Quando decidi criar meu espaço na internet, quis unir minhas paixões pelos games, filmes de ficção científica e minha outra grande paixão: programar! Descobri essa paixão um pouco tarde, pois sempre acreditei que seria administrador de empresa. No entanto, quando conheci o mundo da programação, foi amor à primeira vista. E aqui estou, desenvolvendo do zero um site do meu jeito, do meu estilo e compreendendo todo o conhecimento que adquiri até a criação desse Rogerioverso. Poderia ser melhor? Sim! Nada é perfeito, sempre há margem para melhoria, mas é um prêmio pessoal conseguir criar algo do zero e entregar a aplicação na web para pessoas como você, que podem ser um "padawan" como eu ou um "mestre Jedi" interessado em conhecer meu trabalho.
