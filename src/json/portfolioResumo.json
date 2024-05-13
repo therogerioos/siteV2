@@ -1,0 +1,114 @@
+[
+    {
+        "caminhoImg": "/images/log-css.png",
+        "textAlt": "CSS",
+        "titlePost": "CSS",
+        "contentPost": "Projeto realizado em CSS, utilizando técnicas sofisticadas de desenvolvimento web",
+        "link": "portfolio_ID01"
+    },
+    {
+        "caminhoImg": "/images/log-html.png",
+        "textAlt": "HTML",
+        "titlePost": "HTML",
+        "contentPost": "Projeto realizado em HTML, utilizando técnicas sofisticadas de desenvolvimento web",
+        "link": "portfolio_ID02"
+    },
+    {
+        "caminhoImg": "/images/log-js.png",
+        "textAlt": "JavaScript",
+        "titlePost": "JavaScript",
+        "contentPost": "Projeto realizado em JavaScript, utilizando técnicas sofisticadas de desenvolvimento web",
+        "link": "portfolio_ID03"
+    },
+    {
+        "caminhoImg": "/images/log-python.png",
+        "textAlt": "Python",
+        "titlePost": "Python",
+        "contentPost": "Projeto realizado em Python, utilizando técnicas sofisticadas de desenvolvimento web",
+        "link": ""
+    },
+    {
+        "caminhoImg": "/images/logo-desenvolvimento-web.png",
+        "textAlt": "Desenvolvimento Web",
+        "titlePost": "Desenvolvimento Web",
+        "contentPost": "Projeto realizado em Desenvolvimento Web, utilizando técnicas sofisticadas de desenvolvimento web",
+        "link": ""
+    },
+    {
+        "caminhoImg": "/images/logo-sql.png",
+        "textAlt": "SQL",
+        "titlePost": "SQL",
+        "contentPost": "Projeto realizado em SQL, utilizando técnicas sofisticadas de desenvolvimento web",
+        "link": ""
+    },
+    {
+        "caminhoImg": "/images/logo-react.png",
+        "textAlt": "React",
+        "titlePost": "React",
+        "contentPost": "Projeto realizado em React, utilizando técnicas sofisticadas de desenvolvimento web",
+        "link": ""
+    },
+    {
+        "caminhoImg": "/images/logo-CSharp.png",
+        "textAlt": "C##",
+        "titlePost": "C##",
+        "contentPost": "Projeto realizado em C##, utilizando técnicas sofisticadas de desenvolvimento web",
+        "link": ""
+    },
+    {
+        "caminhoImg": "/images/logo-docker.png",
+        "textAlt": "Docker",
+        "titlePost": "Docker",
+        "contentPost": "Projeto realizado em Docker, utilizando técnicas sofisticadas de desenvolvimento web",
+        "link": ""
+    },
+    {
+        "caminhoImg": "/images/logo-java.png",
+        "textAlt": "Java",
+        "titlePost": "Java",
+        "contentPost": "Projeto realizado em Java, utilizando técnicas sofisticadas de desenvolvimento web",
+        "link": ""
+    },
+    {
+        "caminhoImg": "/images/logo-json.png",
+        "textAlt": "JSON",
+        "titlePost": "JSON",
+        "contentPost": "Projeto realizado em JSON, utilizando técnicas sofisticadas de desenvolvimento web",
+        "link": ""
+    },
+    {
+        "caminhoImg": "/images/logo-pandas.png",
+        "textAlt": "Pandas",
+        "titlePost": "Pandas",
+        "contentPost": "Projeto realizado em Pandas, utilizando técnicas sofisticadas de desenvolvimento web",
+        "link": ""
+    },
+    {
+        "caminhoImg": "/images/logo-powerbi.png",
+        "textAlt": "Power BI",
+        "titlePost": "Power BI",
+        "contentPost": "Projeto realizado em Power BI, utilizando técnicas sofisticadas de desenvolvimento web",
+        "link": ""
+    },
+    {
+        "caminhoImg": "/images/logo-rust.png",
+        "textAlt": "Rust",
+        "titlePost": "Rust",
+        "contentPost": "Projeto realizado em Rust, utilizando técnicas sofisticadas de desenvolvimento web",
+        "link": ""
+    },
+    {
+        "caminhoImg": "/images/logo-springBoot.png",
+        "textAlt": "Spring Boot",
+        "titlePost": "Spring Boot",
+        "contentPost": "Projeto realizado em Spring Boot, utilizando técnicas sofisticadas de desenvolvimento web",
+        "link": ""
+    },
+    {
+        "caminhoImg": "/images/logo-tauri.png",
+        "textAlt": "Tauri",
+        "titlePost": "Tauri",
+        "contentPost": "Projeto realizado em Tauri, utilizando técnicas sofisticadas de desenvolvimento web",
+        "link": ""
+    }
+]
