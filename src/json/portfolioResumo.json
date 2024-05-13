@@ -111,4 +111,12 @@
         "contentPost": "Projeto realizado em Tauri, utilizando técnicas sofisticadas de desenvolvimento web",
         "link": ""
     }
+
+    {
+        "caminhoImg": "/images/logo-tauri.png",
+        "textAlt": "Desenvolvimento Ágil",
+        "titlePost": "Desenvolvimento Ágil",
+        "contentPost": "Práticas em desenvolvimento ágil",
+        "link": ""
+    }
 ]
