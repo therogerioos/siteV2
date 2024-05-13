@@ -9,7 +9,6 @@ import Footer from './Footer';
 
 const PagePostPortfolio = () => {
     const { link } = useParams();
-    console.log('Valor de link:', link);
     const [markdownContent, setMarkdownContent] = useState('');
 
     useEffect(() => {
